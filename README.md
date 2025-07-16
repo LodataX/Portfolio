@@ -10,11 +10,13 @@ Hello! I'm Edimo Lolo 🤓,  an aspiring data analyst and scientist with a backg
 *As a data analytics student actively building my career, I work with real-world datasets to uncover insights and communicate data-driven stories. I use tools like Excel, SQL, Python, and Tableau to clean data, identify patterns, and create clear visualizations through bootcamp and portfolio projects and real-life data.*
 
 **- ✅ Data Manipulation & Analysis.**
+
 -Excel(Advanced functions, pivot tables, Power  Query)
 - Pandas (Python)
 - Exploratory Data Analysis(EDA)
 
 **- ✅ Programming Languages.**
+
 -Python
 -SQL
 
