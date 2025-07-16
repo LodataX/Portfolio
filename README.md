@@ -7,29 +7,29 @@ Hello! I'm Edimo Lolo 🤓,  an aspiring data analyst and scientist with a backg
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a data analytics student actively building my career, I work with real-world datasets to uncover insights and communicate data-driven stories. I use tools like Excel, SQL, Python, and Tableau to clean data, identify patterns, and create clear visualizations through bootcamp and portfolio projects and real-life data.*
+*As a data analytics student actively building my career, I work with real-world datasets to uncover insights and communicate data-driven stories. I use tools like Excel, SQL, Python, and Tableau to clean data, identify patterns, and create clear visualizations through bootcamp portfolio projects and real-life data.*
 
 **- ✅ Data Manipulation & Analysis.**
 
--Excel(Advanced functions, pivot tables, Power  Query)
-- Pandas (Python)
-- Exploratory Data Analysis(EDA)
++ Pandas (Python)
++  Exploratory Data Analysis(EDA)
++  Excel(Advanced functions, pivot tables, Power  Query)
 
 **- ✅ Programming Languages.**
-
--Python
--SQL
++ Python
++ SQL 
 
 **- ✅  Data Visualization**
-- Tableau
-- Matplotlib & Seaborn(Python)
-- Plotly
-- Excel charts & dashboards.
++ Tableau
++  Matplotlib & Seaborn(Python)
++   Plotly
++   Excel charts & dashboards.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
+
 **Coffee Shop Sales Dashboard | Excel Data Analysis Project.**
 
 To strengthen my skills as an aspiring data analyst, I used the Coffee Shop Sales dataset from Maven Analytics to build a professional, insight-driven dashboard in Microsoft Excel.
