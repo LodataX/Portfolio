@@ -30,7 +30,7 @@ Hello! I'm Edimo Lolo 🤓,  an aspiring data analyst and scientist with a backg
 *A glimpse of some of the projects I've been working on.*
 **Coffee Shop Sales Dashboard | Excel Data Analysis Project.**
 **To strengthen my skills as an aspiring data analyst, I used the Coffee Shop Sales dataset from Maven Analytics to build a professional, insight-driven dashboard in Microsoft Excel.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Screenshot 2025-07-16 133925.png)
 
  This project shows how something as routine as coffee shop sales can reveal deep insights when the data is cleaned, explored, and visualized with purpose.
 
