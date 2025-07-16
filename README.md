@@ -7,26 +7,32 @@ Hello! I'm Edimo Lolo 🤓,  an aspiring data analyst and scientist with a backg
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a data analytics student actively building my career, I work with real-world datasets to uncover insights and communicate data-driven stories. I use tools like Excel, SQL, Python, and Tableau to clean data, identify patterns, and create clear visualizations. Through bootcamp and portfolio projects, I’ve worked on a variety of topics from blockchain/NFT sales to healthcare analytics and demographic trends gaining hands-on experience analyzing diverse data types and applying practical solutions. I’m continuously expanding my skills and preparing to contribute to data-driven teams..*
+*As a data analytics student actively building my career, I work with real-world datasets to uncover insights and communicate data-driven stories. I use tools like Excel, SQL, Python, and Tableau to clean data, identify patterns, and create clear visualizations through bootcamp and portfolio projects and real-life data.*
 
-**- ✅ Data Analytics Projects.**
-I explore real-world datasets to uncover insights, identify patterns, and support data-driven decisions. I work with tools like Excel, SQL, Python, and Tableau to clean data, analyze trends, and create clear visualizations.. 
+**- ✅ Data Manipulation & Analysis.**
+-Excel(Advanced functions, pivot tables, Power  Query)
+- Pandas (Python)
+- Exploratory Data Analysis(EDA)
 
-**- ✅ Continuous Learning & Skill Building.**
-As an aspiring data analyst and scientist, I’m actively developing my skills through bootcamp projects, online coursework, and hands-on practice with public datasets. I focus on building strong foundations in both analysis and data storytelling.
+**- ✅ Programming Languages.**
+-Python
+-SQL
 
-**- ✅  Portfolio Development.**
-I document and share my learning journey through personal projects that highlight my analytical thinking, technical growth, and passion for solving real-world business problems with data.
+**- ✅  Data Visualization**
+- Tableau
+- Matplotlib & Seaborn(Python)
+- Plotly
+- Excel charts & dashboards.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Coffee Shop Sales Dashboard | Excel Data Analysis Project.**
+**To strengthen my skills as an aspiring data analyst, I used the Coffee Shop Sales dataset from Maven Analytics to build a professional, insight-driven dashboard in Microsoft Excel.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+ This project shows how something as routine as coffee shop sales can reveal deep insights when the data is cleaned, explored, and visualized with purpose.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
