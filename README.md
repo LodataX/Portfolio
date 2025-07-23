@@ -56,6 +56,16 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
+*A glimpse of some of the projects I've been working on.*
+
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+![image](1 anietie etuk data analytics car project.jpeg)
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
 
 ## CONTACT DETAILS
 
